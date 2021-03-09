@@ -25,4 +25,4 @@ I enjoy creating things that live on the internet, whether that be websites, app
 [![Pyxelgroup.uz](https://img.shields.io/badge/-🧬%20Pyxel%20Group-000?)](https://pyxelgroup.uz)
 [![Startex.uz](https://img.shields.io/badge/-🧬%20%20Startex-000?)](https://startex.uz)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=mrsaadDev&show_icons=true&count_private=true&hide=contribs&include_all_commits=true&theme=dark&bg_color=30,e96443,904e95" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=mrsaadDev&show_icons=true&count_private=true&hide=contribs&include_all_commits=true&theme=highcontrast&bg_color=30,e96443,904e95" />
