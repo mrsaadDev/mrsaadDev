@@ -5,6 +5,18 @@
   <br>
   <samp>Hello there. I'm <a href="https://mrsaaddev.vercel.app">Saad</a>.<br> I'm a Frontend Developer from Samarkand.<br><br>#linux, #javascript, #nuxtjs, #vuejs</samp>
   <br>
+  <p 
+  align="center">
+    <a
+      align="center"
+      href="https://t.me/mrsaadDev" 
+      target="_blank">
+          <img 
+            alt="@mrsaadDev | Telegram" 
+            width="80px" 
+            src="https://sadykhzadeh.ml/img/telegram-10.gif" />
+    </a>
+</p>
   <br>
   <br>
   <br>
