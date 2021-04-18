@@ -23,6 +23,6 @@
           <img 
             alt="@mrsaadDev | Telegram" 
             width="80px" 
-            src="https://sadykhzadeh.ml/img/telegram-10.gif" />
+            src="https://github.com/mrsaadDev/mrsaadDev/blob/main/telegram-10.gif" />
     </a>
 </p>
