@@ -3,7 +3,7 @@
   <br>
   <br>
   <br>
-  <samp>Hello there. I'm <a href="https://mrsaaddev.vercel.app">Saad</a>.<br> I'm a Frontend Developer from Samarkand.<br><br>#linux, #javascript, #nuxtjs, #vuejs</samp>
+  <samp>Hi! I'm <a href="https://mrsaaddev.vercel.app">Saad</a>.<br> I'm a Frontend Developer from Samarkand.<br><br>#linux, #javascript, #nuxtjs, #vuejs</samp>
   <br>
   <br>
   <br>
