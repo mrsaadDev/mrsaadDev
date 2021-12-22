@@ -3,7 +3,7 @@
   <br>
   <br>
   <br>
-  <samp>Hi! I'm <a href="https://mrsaaddev.vercel.app">Saad</a>.<br> I'm a Developer from Samarkand.<br><br>#linux, #python #datascience #django #AI</samp>
+  <samp>Hi! I'm <a href="https://mrsaaddev.vercel.app">Saadulloh</a>.<br> I'm a Developer from Samarkand.<br><br>#linux, #python #datascience #django #AI</samp>
   <br>
   <br>
   <br>
@@ -18,7 +18,7 @@
   align="center">
     <a
       align="center"
-      href="https://t.me/developer_bro" 
+      href="https://t.me/saadulloh_mv" 
       target="_blank">
           <img 
             alt="@mrsaadDev | Telegram" 
