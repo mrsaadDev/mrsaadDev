@@ -18,10 +18,10 @@
   align="center">
     <a
       align="center"
-      href="https://t.me/saadulloh_mv" 
+      href="https://t.me/saadulloh" 
       target="_blank">
           <img 
-            alt="@mrsaadDev | Telegram" 
+            alt="@saadulloh | Telegram" 
             width="80px" 
             src="https://github.com/mrsaadDev/mrsaadDev/blob/main/telegram-10.gif" />
     </a>
